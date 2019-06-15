@@ -1,6 +1,6 @@
 Программа определяющая насколько вы ревнивы. Оригинал теста на сайте:
 
-# Test [![Syntone.ru](http://syntone.ru/psytesty/revnivy-li-vy-test-dlya-zhenshhin.svg)](http://syntone.ru/psytesty/revnivy-li-vy-test-dlya-zhenshhin)
+# Test [![Syntone.ru](http://syntone.ru/psytesty/revnivy-li-vy-test-dlya-zhenshhin.svg)](https://syntone.ru/psytesty/revnivy-li-vy-test-dlya-zhenshhin)
 
 Для запуска игры введите команду:
 ```
