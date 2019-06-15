@@ -1,4 +1,8 @@
-Это пубилчный репозиторий - программа, написанная на Ruby, определяющая насколько вы ревнивы.
+Программа определяющая насколько вы ревнивы.
+
+# TEST [![Syntone](https://syntone.ru/psytesty/revnivy-li-vy-test-dlya-zhenshhin)]
 
 Для запуска игры введите команду:
+```
 ruby jealousy_test.rb
+```
